@@ -9,7 +9,7 @@ Tech Stack :
 - Api Documentation : Swagger
 
 how to install and running app :
-- clone repo ""
+- clone repo "https://github.com/TainSiddik/Restpul-Api-Authentication-Single-Role.git"
 - Active your database mysql
 - creat new database in phpmyadmin named "authentication"
 - export file database at folder Restpul-Api-Authentication-Single-Role/src/config/database/authentication.sql
